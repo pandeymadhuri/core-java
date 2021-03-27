@@ -27,6 +27,7 @@ public class StringOperations {
 		System.out.println("SB "+sb);
 		//System.out.println(sb.reverse());
 		System.out.println(sb.replace(2, 4, "kk"));
+		System.out.println("added a line to check the commit");
 		
 	}
 }
